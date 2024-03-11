@@ -15,7 +15,6 @@ export const AnimatedTooltip = ({
   items: {
     id: number;
     name: string;
-    designation: string;
     image: string;
   }[];
 }) => {
@@ -73,7 +72,7 @@ export const AnimatedTooltip = ({
                 <div className="font-bold text-white relative z-30 text-base">
                   {item.name}
                 </div>
-                <div className="text-white text-xs">{item.designation}</div>
+                {/* <div className="text-white text-xs">{item.designation}</div> */}
               </motion.div>
             )}
           </AnimatePresence>

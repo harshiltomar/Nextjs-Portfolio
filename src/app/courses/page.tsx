@@ -3,6 +3,8 @@ import Image from "next/image";
 import React from "react";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
 import courseData from "@/data/music_courses.json";
+import { FaGithub } from "react-icons/fa";
+import { FaExternalLinkAlt } from "react-icons/fa";
 
 function page() {
   return (
@@ -40,16 +42,18 @@ function page() {
                 <CardItem
                   translateZ={20}
                   as="button"
-                  className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white"
+                  className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white flex"
                 >
-                  Try now →
+                  <FaGithub className="mr-2" />
+                  Github Repo →
                 </CardItem>
                 <CardItem
                   translateZ={20}
                   as="button"
-                  className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold"
+                  className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold flex"
                 >
-                  Sign up
+                  <FaExternalLinkAlt className="mr-2" />
+                  Live Link
                 </CardItem>
               </div>
             </CardBody>

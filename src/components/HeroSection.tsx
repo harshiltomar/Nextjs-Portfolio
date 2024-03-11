@@ -37,10 +37,11 @@ function HeroSection() {
           <div className="absolute inset-0 w-full h-full bg-black [mask-image:radial-gradient(350px_200px_at_top,transparent_20%,white)]"></div>
           <div className="-mt-4 -ml-8 z-10">
             <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
-              Software Engineer | FullStack Engineer
+              Software Engineer | FullStack Developer with Passion for Problem
+              Solving
             </p>
             <div className="mt-4">
-              <Link href={"/courses"}>
+              <Link href="/courses">
                 <Button
                   borderRadius="1.75rem"
                   className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
