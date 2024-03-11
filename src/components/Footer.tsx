@@ -3,11 +3,11 @@ function Footer() {
     <footer className="bg-black text-gray-400 py-12">
       <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 px-4 sm:px-6 lg:px-8">
         <div>
-          <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
+          <h2 className="text-white text-lg font-semibold mb-4">About Me</h2>
           <p className="mb-4">
-            Music School is a premier institution dedicated to teaching the art
-            and science of music. We nurture talent from the ground up,
-            fostering a vibrant community of musicians.
+            I am a highly skilled Fullstack Engineer with 2+ years of experience
+            having worked as Fullstack dev and having real-world experience in
+            Devops, Deployments etc
           </p>
         </div>
         <div>
@@ -18,7 +18,7 @@ function Footer() {
                 href="#"
                 className="hover:text-white transition-colors duration-300"
               >
-                Home
+                Linkedin
               </a>
             </li>
             <li>
@@ -26,7 +26,7 @@ function Footer() {
                 href="#"
                 className="hover:text-white transition-colors duration-300"
               >
-                About
+                Gmail
               </a>
             </li>
             <li>
@@ -34,7 +34,7 @@ function Footer() {
                 href="#"
                 className="hover:text-white transition-colors duration-300"
               >
-                Courses
+                Github
               </a>
             </li>
             <li>
@@ -42,19 +42,19 @@ function Footer() {
                 href="#"
                 className="hover:text-white transition-colors duration-300"
               >
-                Contact
+                Resume
               </a>
             </li>
           </ul>
         </div>
         <div>
-          <h2 className="text-white text-lg font-semibold mb-4">Follow Us</h2>
+          <h2 className="text-white text-lg font-semibold mb-4">Follow Me</h2>
           <div className="flex space-x-4">
             <a
               href="#"
               className="hover:text-white transition-colors duration-300"
             >
-              Facebook
+              Linkedin
             </a>
             <a
               href="#"
@@ -66,20 +66,20 @@ function Footer() {
               href="#"
               className="hover:text-white transition-colors duration-300"
             >
-              Instagram
+              Github
             </a>
           </div>
         </div>
         <div>
-          <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
+          <h2 className="text-white text-lg font-semibold mb-4">Contact Me</h2>
           <p>New Delhi, India</p>
-          <p>Delhi 10001</p>
-          <p>Email: info@musicschool.com</p>
-          <p>Phone: (123) 456-7890</p>
+          <p>Delhi 110096</p>
+          <p>Email: harshiltomar20@gmail.com</p>
+          <p>Phone: (+91) 9958977078</p>
         </div>
       </div>
-      <p className="text-center text-xs pt-8">
-        © 2024 Music School. All rights reserved.
+      <p className="text-center text-lg pt-8 font-semibold text-white">
+        ⚡© Harshil Tomar™ ⚡
       </p>
     </footer>
   );

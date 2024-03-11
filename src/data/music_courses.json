@@ -2,9 +2,9 @@
   "courses": [
     {
       "id": 1,
-      "title": "Guitar Fundamentals",
+      "title": "Taskify",
       "slug": "guitar-fundamentals",
-      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "description": "MERN based Full-Stack Application with Bcrypt hashing and User Management with History Management",
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
@@ -12,9 +12,9 @@
     },
     {
       "id": 2,
-      "title": "Piano for Beginners",
+      "title": "Marked",
       "slug": "piano-for-beginners",
-      "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+      "description": "Live Fullstack AWS Deployed Attendance Application handline 2.5k+ students and 130+ teachers with python script for mailing system and messaging via Beta-Blaster",
       "price": 109.99,
       "instructor": "Jane Smith",
       "isFeatured": false,
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "title": "Advanced Vocal Techniques",
+      "title": "NetflixGPT",
       "slug": "advanced-vocal-techniques",
       "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
       "price": 119.99,
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "title": "Drumming Mastery",
+      "title": "Music-Edtech",
       "slug": "drumming-mastery",
       "description": "Master the drums with our comprehensive course covering all skill levels.",
       "price": 129.99,
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "title": "Jazz Improvisation",
+      "title": "Hippofy",
       "slug": "jazz-improvisation",
       "description": "Learn the art of jazz improvisation with this course designed for all levels.",
       "price": 139.99,

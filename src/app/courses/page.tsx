@@ -9,8 +9,8 @@ import { FaExternalLinkAlt } from "react-icons/fa";
 function page() {
   return (
     <div className="min-h-screen bg-black py-12 pt-36">
-      <h1 className="text-lg md:text-7xl text-center font-sans font-bold mb-8 text-white">
-        All Courses [{courseData.courses.length}]
+      <h1 className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 text-center">
+        All Projects [{courseData.courses.length}]
       </h1>
       <div className="flex flex-wrap justify-center">
         {courseData.courses.map((course) => (
