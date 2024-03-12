@@ -16,7 +16,7 @@ const content = [
     content: (
       <div className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--cyan-500),var(--emerald-500))] flex items-center justify-center text-white">
         Software Engineer Intern, Newgen
-        <br /> Jan'24 - Present
+        <br /> Jan,24 - Present
       </div>
     ),
   },
@@ -32,7 +32,7 @@ const content = [
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
         Fullstack Dev Intern, Infiti Tech
-        <br /> March'23 - August'23
+        <br /> March,23 - August,23
       </div>
     ),
   },
@@ -48,7 +48,7 @@ const content = [
     content: (
       <div className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--orange-500),var(--yellow-500))] flex items-center justify-center text-white">
         Frontend Dev Intern, Spotline
-        <br /> August'22 - February;22
+        <br /> August,22 - February,22
       </div>
     ),
   },
@@ -63,7 +63,7 @@ const content = [
     content: (
       <div className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--cyan-500),var(--emerald-500))] flex items-center justify-center text-white">
         UI/UX Designer, Fiverr
-        <br /> Oct'21 - April'22
+        <br /> Oct,21 - April,22
       </div>
     ),
   },

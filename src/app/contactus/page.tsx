@@ -18,10 +18,10 @@ function page() {
         </h1>
         <p></p>
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
-          Hello's Watcher ! wanna get in touch with me. I provide reliable
-          communication solutions for your inquiries, feedback, or
-          collaborations. Whether you're reaching out for Tech opportunity or
-          just want to say hello, I have got you covered.
+          Hello 👋 wanna get in touch with me. I provide reliable communication
+          solutions for your inquiries, feedback, or collaborations. Whether you
+          are reaching out for Tech opportunity or just want to say hello, I
+          have got you covered.
         </p>
         <input
           type="text"
