@@ -18,16 +18,15 @@ function page() {
         </h1>
         <p></p>
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
-          Welcome to MailJet, the best transactional email service on the web.
-          We provide reliable, scalable, and customizable email solutions for
-          your business. Whether you&apos;re sending order confirmations,
-          password reset emails, or promotional campaigns, MailJet has got you
-          covered.
+          Hello's Watcher ! wanna get in touch with me. I provide reliable
+          communication solutions for your inquiries, feedback, or
+          collaborations. Whether you're reaching out for Tech opportunity or
+          just want to say hello, I have got you covered.
         </p>
         <input
           type="text"
-          placeholder="hi@manuarora.in"
-          className="rounded-lg border border-neutral-800 focus:ring-2 focus:ring-teal-500  w-full relative z-10 mt-4  bg-neutral-950 placeholder:text-neutral-700 placeholder:p-2"
+          placeholder="harshiltomar20@gmail.com"
+          className="h-10 rounded-lg border border-neutral-800 focus:ring-2 focus:ring-teal-500  w-full relative z-10 mt-4  bg-neutral-950 placeholder:text-neutral-700 placeholder:p-2"
         />
       </div>
       <BackgroundBeams />

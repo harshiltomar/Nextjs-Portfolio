@@ -54,6 +54,7 @@ export const StickyScroll = ({
     "linear-gradient(to bottom right, var(--pink-500), var(--indigo-500))",
     "linear-gradient(to bottom right, var(--orange-500), var(--yellow-500))",
     "linear-gradient(to bottom right, var(--purple-500), var(--teal-500))",
+    "linear-gradient(to bottom right, var(--cyan-500), var(--emerald-500))",
   ];
   return (
     <motion.div
@@ -76,7 +77,7 @@ export const StickyScroll = ({
                 }}
                 className="text-2xl font-bold text-slate-100"
               >
-                {item.title}
+                ⚡ {item.title}
               </motion.h2>
               <motion.p
                 initial={{
