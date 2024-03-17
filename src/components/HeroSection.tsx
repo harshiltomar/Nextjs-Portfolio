@@ -41,7 +41,7 @@ function HeroSection() {
               Solving
             </p>
             <div className="mt-4">
-              <Link href="/courses">
+              <Link href="https://drive.google.com/file/d/1wNJ1J0mZ60GplJ7_qzP0oCkbC4fnz9RV/view">
                 <Button
                   borderRadius="1.75rem"
                   className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"

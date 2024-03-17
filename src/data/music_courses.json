@@ -8,107 +8,93 @@
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "/courses/guitar.jpg"
+      "github": "https://github.com/harshiltomar/Todo",
+      "livelink": "",
+      "image": "/courses/Taskify.JPG"
     },
     {
       "id": 2,
       "title": "Marked",
       "slug": "piano-for-beginners",
-      "description": "Live Fullstack AWS Deployed Attendance Application handline 2.5k+ students and 130+ teachers with python script for mailing system and messaging via Beta-Blaster",
+      "description": "Live Fullstack AWS Deployed Attendance Application handling 2.5k+ students and 130+ teachers",
       "price": 109.99,
       "instructor": "Jane Smith",
       "isFeatured": false,
-      "image": "/courses/piano.jpg"
+      "github": "",
+      "livelink": "https://msit-marked-fhr1.onrender.com/",
+      "image": "/courses/marked.JPG"
     },
     {
       "id": 3,
       "title": "NetflixGPT",
-      "slug": "advanced-vocal-techniques",
-      "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
+      "slug": "React-Redux based Movie Site with OpenAI -API Recommendation and Yt Embedded Trailer Systerm",
+      "description": "React-Redux based Movie Site with OpenAI -API Recommendation and Yt Embedded Trailer System",
       "price": 119.99,
       "instructor": "Emily Johnson",
+      "github": "https://github.com/harshiltomar?tab=repositories",
+      "livelink": "https://vercel.com/harshil-tomars-projects/netlifx-gpt",
       "isFeatured": true,
-      "image": "/courses/vocalist.jpg"
+      "image": "/courses/Netflix.JPG"
     },
     {
       "id": 4,
       "title": "Music-Edtech",
       "slug": "drumming-mastery",
-      "description": "Master the drums with our comprehensive course covering all skill levels.",
+      "description": "A High User Interface Site using Typescript and Nextjs with Aceternity UI based Animation Integrations",
       "price": 129.99,
       "instructor": "Mike Brown",
+      "github": "https://github.com/harshiltomar/Music-Edtech",
+      "livelink": "https://vercel.com/harshil-tomars-projects/musilearn",
       "isFeatured": false,
-      "image": "/courses/drumming.jpg"
+      "image": "/courses/Music-tech.JPG"
     },
     {
       "id": 5,
-      "title": "Hippofy",
+      "title": "HARTdraws",
       "slug": "jazz-improvisation",
-      "description": "Learn the art of jazz improvisation with this course designed for all levels.",
+      "description": "Real World SAAS solution with Document Identification and live-chatbot abilites with TS and Nextjs",
       "price": 139.99,
       "instructor": "Chris Davis",
+      "github": "https://github.com/harshiltomar/Hartdraws",
+      "livelink": "",
       "isFeatured": false,
-      "image": "/courses/jazz.jpg"
+      "image": "/courses/Hartdraws.JPG"
     },
     {
       "id": 6,
-      "title": "Music Production Fundamentals",
+      "title": "Foodify",
       "slug": "music-production-fundamentals",
-      "description": "Dive into music production with this introductory course on the basics of sound engineering.",
+      "description": "React based Food Oredering Web Application using Swiggy REST API and axios with Cart Management System",
       "price": 149.99,
       "instructor": "Alex Wilson",
+      "github": "https://github.com/harshiltomar/Foodify-1.0",
+      "livelink": "",
       "isFeatured": true,
-      "image": "/courses/music-prod.jpg"
+      "image": "/courses/foodify.JPG"
     },
     {
       "id": 7,
-      "title": "Songwriting Essentials",
-      "slug": "songwriting-essentials",
-      "description": "Learn the essentials of songwriting to express your musical creativity.",
-      "price": 159.99,
-      "instructor": "Samantha Miller",
-      "isFeatured": false,
-      "image": "/courses/song-writing.jpg"
+      "title": "Spotline",
+      "slug": "music-production-fundamentals",
+      "description": "React based Internship project based in react js with ui libraries and multiple sub pages",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "github": "",
+      "livelink": "https://spotline.org",
+      "isFeatured": true,
+      "image": "/courses/Spotline.JPG"
     },
     {
       "id": 8,
-      "title": "Electronic Music Production",
-      "slug": "electronic-music-production",
-      "description": "Create compelling electronic music with our course designed for beginners to advanced users.",
-      "price": 169.99,
-      "instructor": "Luke Harris",
+      "title": "Youtube Clone",
+      "slug": "music-production-fundamentals",
+      "description": "Yotube clone with embedded yt real time details and sub pages with category filtering systems",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "github": "https://github.com/harshiltomar/Youtube-Clone",
+      "livelink": "",
       "isFeatured": true,
-      "image": "/courses/music-prod.jpg"
-    },
-    {
-      "id": 9,
-      "title": "Classical Music History",
-      "slug": "classical-music-history",
-      "description": "Explore the rich history of classical music from its origins to the present day.",
-      "price": 179.99,
-      "instructor": "Grace Lee",
-      "isFeatured": false,
-      "image": "/courses/classical-music.jpg"
-    },
-    {
-      "id": 10,
-      "title": "Blues Guitar Techniques",
-      "slug": "blues-guitar-techniques",
-      "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
-      "price": 189.99,
-      "instructor": "Ethan Moore",
-      "isFeatured": true,
-      "image": "/courses/blues.jpg"
-    },
-    {
-      "id": 11,
-      "title": "Folk Songwriting Masterclass",
-      "slug": "folk-songwriting-masterclass",
-      "description": "Immerse yourself in the world of folk songwriting with this masterclass",
-      "price": 199.99,
-      "instructor": "Sarah Thompson",
-      "isFeatured": true,
-      "image": "/courses/folk-songwriting.jpg"
+      "image": "/courses/Youtube.JPG"
     }
   ]
 }

@@ -5,13 +5,13 @@ import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
 import courseData from "@/data/music_courses.json";
 import { FaGithub } from "react-icons/fa";
 import { FaExternalLinkAlt } from "react-icons/fa";
+import { Boxes } from "@/components/ui/background-boxes";
+import Link from "next/link";
 
 function page() {
   return (
     <div className="min-h-screen bg-black py-12 pt-36">
-      <h1 className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 text-center">
-        All Projects [{courseData.courses.length}]
-      </h1>
+      <Boxes />
       <div className="flex flex-wrap justify-center">
         {courseData.courses.map((course) => (
           <CardContainer className="inter-var m-4" key={course.id}>
@@ -39,22 +39,26 @@ function page() {
                 />
               </CardItem>
               <div className="flex justify-between items-center mt-20">
-                <CardItem
-                  translateZ={20}
-                  as="button"
-                  className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white flex"
-                >
-                  <FaGithub className="mr-2" />
-                  Github Repo →
-                </CardItem>
-                <CardItem
-                  translateZ={20}
-                  as="button"
-                  className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold flex"
-                >
-                  <FaExternalLinkAlt className="mr-2" />
-                  Live Link
-                </CardItem>
+                <Link href={course.github}>
+                  <CardItem
+                    translateZ={20}
+                    as="button"
+                    className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white flex"
+                  >
+                    <FaGithub className="mr-2" />
+                    Github Repo →
+                  </CardItem>
+                </Link>
+                <Link href={course.livelink}>
+                  <CardItem
+                    translateZ={20}
+                    as="button"
+                    className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold flex"
+                  >
+                    <FaExternalLinkAlt className="mr-2" />
+                    Live Link
+                  </CardItem>
+                </Link>
               </div>
             </CardBody>
           </CardContainer>

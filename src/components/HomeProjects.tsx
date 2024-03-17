@@ -4,97 +4,88 @@ import { HeroParallax } from "./ui/hero-parallax";
 
 export const products = [
   {
-    title: "Moonbeam",
+    title: "Taskify",
     link: "https://gomoonbeam.com",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/moonbeam.png",
+    thumbnail: "/courses/Taskify.JPG",
   },
   {
-    title: "Cursor",
+    title: "Marked",
     link: "https://cursor.so",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/cursor.png",
+    thumbnail: "/courses/marked.JPG",
   },
   {
-    title: "Rogue",
+    title: "NetflixGPT",
     link: "https://userogue.com",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/rogue.png",
+    thumbnail: "/courses/Netflix.JPG",
   },
 
   {
-    title: "Editorially",
+    title: "Music-Edtech",
     link: "https://editorially.org",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/editorially.png",
+    thumbnail: "/courses/Music-tech.JPG",
   },
   {
-    title: "Editrix AI",
+    title: "HARTdraws",
     link: "https://editrix.ai",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/editrix.png",
+    thumbnail: "/courses/Hartdraws.JPG",
   },
   {
-    title: "Pixel Perfect",
+    title: "Foodify",
     link: "https://app.pixelperfect.quest",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/pixelperfect.png",
+    thumbnail: "/courses/Foodify.JPG",
   },
 
   {
-    title: "Algochurn",
-    link: "https://algochurn.com",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/algochurn.png",
+    title: "Spotline",
+    link: "https://spotline.org",
+    thumbnail: "/courses/Spotline.JPG",
   },
   {
-    title: "Aceternity UI",
-    link: "https://ui.aceternity.com",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/aceternityui.png",
+    title: "Youtube Clone",
+    link: "",
+    thumbnail: "/courses/Youtube.JPG",
   },
   {
-    title: "Tailwind Master Kit",
-    link: "https://tailwindmasterkit.com",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/tailwindmasterkit.png",
+    title: "Taskify1",
+    link: "https://gomoonbeam.com",
+    thumbnail: "/courses/Taskify.JPG",
   },
   {
-    title: "SmartBridge",
-    link: "https://smartbridgetech.com",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/smartbridge.png",
+    title: "Marked1",
+    link: "https://cursor.so",
+    thumbnail: "/courses/marked.JPG",
   },
   {
-    title: "Renderwork Studio",
-    link: "https://renderwork.studio",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/renderwork.png",
+    title: "NetflixGPT1",
+    link: "https://userogue.com",
+    thumbnail: "/courses/Netflix.JPG",
   },
 
   {
-    title: "Creme Digital",
-    link: "https://cremedigital.com",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/cremedigital.png",
+    title: "Music-Edtech1",
+    link: "https://editorially.org",
+    thumbnail: "/courses/Music-tech.JPG",
   },
   {
-    title: "Golden Bells Academy",
-    link: "https://goldenbellsacademy.com",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/goldenbellsacademy.png",
+    title: "HARTdraws1",
+    link: "https://editrix.ai",
+    thumbnail: "/courses/Hartdraws.JPG",
   },
   {
-    title: "Invoker Labs",
-    link: "https://invoker.lol",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/invoker.png",
+    title: "Foodify1",
+    link: "https://app.pixelperfect.quest",
+    thumbnail: "/courses/Foodify.JPG",
+  },
+
+  {
+    title: "Spotline1",
+    link: "https://spotline.org",
+    thumbnail: "/courses/Spotline.JPG",
   },
   {
-    title: "E Free Invoice",
-    link: "https://efreeinvoice.com",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/efreeinvoice.png",
+    title: "Youtube Clone1",
+    link: "",
+    thumbnail: "/courses/Youtube.JPG",
   },
 ];
 

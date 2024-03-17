@@ -15,7 +15,7 @@ function Footer() {
           <ul>
             <li>
               <a
-                href="#"
+                href="https://www.linkedin.com/in/harshiltomar/"
                 className="hover:text-white transition-colors duration-300"
               >
                 Linkedin
@@ -23,7 +23,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="#"
+                href="mailto:harshiltomar20@gmail.com"
                 className="hover:text-white transition-colors duration-300"
               >
                 Gmail
@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="#"
+                href="https://github.com/harshiltomar"
                 className="hover:text-white transition-colors duration-300"
               >
                 Github
@@ -39,7 +39,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="#"
+                href="https://drive.google.com/file/d/1wNJ1J0mZ60GplJ7_qzP0oCkbC4fnz9RV/view"
                 className="hover:text-white transition-colors duration-300"
               >
                 Resume
@@ -51,19 +51,19 @@ function Footer() {
           <h2 className="text-white text-lg font-semibold mb-4">Follow Me</h2>
           <div className="flex space-x-4">
             <a
-              href="#"
+              href="https://www.linkedin.com/in/harshiltomar/"
               className="hover:text-white transition-colors duration-300"
             >
               Linkedin
             </a>
             <a
-              href="#"
+              href="https://twitter.com/home"
               className="hover:text-white transition-colors duration-300"
             >
               Twitter
             </a>
             <a
-              href="#"
+              href="https://github.com/harshiltomar"
               className="hover:text-white transition-colors duration-300"
             >
               Github
@@ -75,7 +75,6 @@ function Footer() {
           <p>New Delhi, India</p>
           <p>Delhi 110096</p>
           <p>Email: harshiltomar20@gmail.com</p>
-          <p>Phone: (+91) 9958977078</p>
         </div>
       </div>
       <p className="text-center text-lg pt-8 font-semibold text-white">

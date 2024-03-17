@@ -23,11 +23,16 @@ function page() {
           are reaching out for Tech opportunity or just want to say hello, I
           have got you covered.
         </p>
-        <input
-          type="text"
-          placeholder="harshiltomar20@gmail.com"
-          className="h-10 rounded-lg border border-neutral-800 focus:ring-2 focus:ring-teal-500  w-full relative z-10 mt-4  bg-neutral-950 placeholder:text-neutral-700 placeholder:p-2"
-        />
+        <form
+          action="https://getform.io/f/925bde26-6d3f-4a19-9ef2-c6c0be0a1886"
+          method="POST"
+        >
+          <input
+            type="text"
+            placeholder="harshiltomar20@gmail.com"
+            className="h-10 rounded-lg border border-neutral-800 focus:ring-2 focus:ring-teal-500  w-full relative z-10 mt-4  bg-neutral-950 placeholder:text-neutral-700 placeholder:p-2"
+          />
+        </form>
       </div>
       <BackgroundBeams />
     </div>
